@@ -1,4 +1,4 @@
-# Projeto SIMBI GS – Pipeline de Dados
+<img width="1891" height="587" alt="image" src="https://github.com/user-attachments/assets/4cedeab6-e618-47d6-95c3-b537d6dcd632" /># Projeto SIMBI GS – Pipeline de Dados
 
 
 ## 📌 Descrição
@@ -23,9 +23,16 @@ O projeto simula um cenário real de RH, permitindo a análise e visualização 
 4. Deploy do pipeline na nuvem  
 5. Consumo e atualização automática dos dados no Power BI  
 
+
+
+
+<img width="1587" height="423" alt="Captura de tela 2026-01-16 142521" src="https://github.com/user-attachments/assets/419c059e-bd17-4c89-94b9-4f1a10759856" />
+
+
 ## ▶️ Como executar o projeto
 ```bash
 pip install -r requirements.txt
 python main.py
+
 
 
